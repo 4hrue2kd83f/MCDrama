@@ -51,13 +51,13 @@ __END__
 <!doctype html>
 <html>
 <head>
-<title>MC Drama Generator</title>
+<title>2girls1stream Drama Generator</title>
 <meta charset="utf-8">
 <meta name="description" content="<%= drama %>">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#111111">
 
-<meta property="og:title" content="MC Drama Generator">
+<meta property="og:title" content="2girls1stream Drama Generator">
 <meta property="og:type" content="website">
 <% if permalink %>
 <meta property="og:url" content="http://ftb-drama.herokuapp.com/<%= version %>/<%= seed %>">
