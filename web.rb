@@ -102,7 +102,7 @@ a:hover {
 }
 </style>
 <div class='drama'><%= drama %></div>
-<a href='/'>Get more mod names!</a> <br>
+<a href='/'>Get more names!</a> <br>
 <a href='https://github.com/4hrue2kd83f/MCDrama/tree/chihuahua'></a>Made by 4hrue2kd83f
 <a href='https://twitter.com/MCDramaLlama'></a>
 <a href='https://reddit.com/r/mcdramagen'></a>
